@@ -1,0 +1,4 @@
+.env
+venv/
+bot_testing.m4a
+__pycache__/
